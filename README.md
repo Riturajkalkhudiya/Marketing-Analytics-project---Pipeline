@@ -75,7 +75,7 @@ All SQL transformations and table creation logic are available in the `/sql_quer
 ![Social Media Details](social_media_details.png.png)
 
 ### 🔹 Customer Review & Sentiment Page
-![Customer Review Details](conversion_review_details.png.png)
+![Customer Review Details](coversion_review_details.png.png)
 
 
 
