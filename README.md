@@ -66,18 +66,18 @@ All SQL transformations and table creation logic are available in the `/sql_quer
 ## 📊 Power BI Report Screenshots
 
 ### 🔹 Overview Page
-![Overview Report](images/overview.png.png)
+![Overview Report](overview.png.png)
 
 ### 🔹 Conversion Details Page
-![Conversion Details](images/conversion_details.png.png)
+![Conversion Details](conversion_details.png.png)
 
 ### 🔹 Social Media Details Page
-![Social Media Details](images/social_media_details.png.png)
+![Social Media Details](social_media_details.png.png)
 
 ### 🔹 Customer Review & Sentiment Page
-![Customer Review Details](images/customer_review_details.png.png)
+![Customer Review Details](customer_review_details.png.png)
 
-> 📌 *Note: Screenshots are stored in the `/images` folder.*
+
 
 ---
 
