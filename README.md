@@ -1,4 +1,4 @@
-<img width="1761" height="983" alt="conversion_details png" src="https://github.com/user-attachments/assets/42d1a9ac-5385-4346-afa4-57b84946eed4" />
+
 #  Marketing Analytics Project  
 From BRD to SQL + Python + Power BI Dashboard
 
@@ -96,6 +96,6 @@ All SQL transformations and table creation logic are available in the `/sql_quer
 - Converted business requirements into a production-ready analytics system
 - Enabled marketing teams to:
 - Identify conversion drop-offs
-- Understand customer sentiment drivers
+- Understand customer sentiment 
 - Optimize campaigns using data-backed insights
 - Delivered a reusable and scalable analytics framework
