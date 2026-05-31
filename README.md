@@ -1,4 +1,5 @@
-# End-to-End Marketing Analytics Project  
+<img width="1761" height="983" alt="conversion_details png" src="https://github.com/user-attachments/assets/42d1a9ac-5385-4346-afa4-57b84946eed4" />
+#  Marketing Analytics Project  
 From BRD to SQL + Python + Power BI Dashboard
 
 This project demonstrates a complete **end-to-end marketing analytics workflow**, starting from a **Business Requirements Document (BRD)** and ending with a **4-page interactive Power BI report**.
@@ -65,16 +66,16 @@ All SQL transformations and table creation logic are available in the `/sql_quer
 ## 📊 Power BI Report Screenshots
 
 ### 🔹 Overview Page
-![Overview Report](images/overview.png)
+![Overview Report](images/overview.png.png)
 
 ### 🔹 Conversion Details Page
-![Conversion Details](images/conversion_details.png)
+![Conversion Details](images/conversion_details.png.png)
 
 ### 🔹 Social Media Details Page
-![Social Media Details](images/social_media_details.png)
+![Social Media Details](images/social_media_details.png.png)
 
 ### 🔹 Customer Review & Sentiment Page
-![Customer Review Details](images/customer_review_details.png)
+![Customer Review Details](images/customer_review_details.png.png)
 
 > 📌 *Note: Screenshots are stored in the `/images` folder.*
 
